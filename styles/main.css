@@ -22,7 +22,7 @@ body:before {
 
 body {
   height: 100vh;
-  background-image: url('/images/jared-berg-HNxKoXrGgco-unsplash.jpg');
+  background-image: url('https://images.unsplash.com/photo-1587314363878-24041efee09c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1456&q=80');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
